@@ -12,6 +12,12 @@ The goal of this project is to build an interactive dashboard that delivers key 
 
 You can open the dashboard in Looker Studio using this public link: [Media Metrics Dashboard](https://lookerstudio.google.com/reporting/2776b0c3-fbbb-48fc-b203-99311172c9c2)
 
+The data sources were sourced from Kaggle:
+
+- [Video Game Sales](https://www.kaggle.com/datasets/gregorut/videogamesales)
+- [Most Streamed Spotify Songs 2023](https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023)
+- [Netflix Movies and TV Shows](https://www.kaggle.com/datasets/shivamb/netflix-shows)
+
 ## Visual Examples
 
 ![alt text](https://github.com/denisgaribovic/media-metrics-dashboard/blob/main/Pictures/Example%202.png)
