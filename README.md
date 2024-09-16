@@ -8,7 +8,7 @@ In a world driven by data, staying ahead requires accurate insights and the abil
 
 ## Project Overview
 
-The goal of this project is to build an interactive dashboard that delivers key insights on video game sales, Spotify streams, and Netflix shows/movies, all in one centralized place.
+This project showcases an interactive dashboard that delivers key insights on video game sales, Spotify streams, and Netflix shows/movies, all in one centralized place: The Media Metrics Dashboard
 
 You can open the dashboard in Looker Studio using this public link: [Media Metrics Dashboard](https://lookerstudio.google.com/reporting/2776b0c3-fbbb-48fc-b203-99311172c9c2)
 
